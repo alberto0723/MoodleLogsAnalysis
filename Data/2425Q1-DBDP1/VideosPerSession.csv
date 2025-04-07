@@ -1,0 +1,41 @@
+Event;Session
+Design Phases;1
+Generalization/Specialization;1
+Interpretation;1
+Null Values;1
+Semantic Relativism;1
+Surrogates;1
+Association Classes;2
+Binary Associations;2
+Compound Aggretation;2
+Constraints;2
+Example of Translation;2
+Multivalued Attributes;2
+N-ary Associations;2
+Reflexive Associations;2
+4NF;3
+Anomalies;3
+Automatic Normalization;3
+Examining Normalization;3
+Functional Dependencies;3
+Normal Forms;3
+Conceptual Multidimensional Schema;4
+Data Warehouse Definition;4
+Data Warehousing Architecture;4
+Logical Multidimensional Schema;4
+OLAP Definition;4
+OLAP Operators;4
+Operational vs Decisional;4
+SQL Extension;4
+JSON Data Type;5
+NOSQL Motivation;5
+Schema Definition;5
+Semi-structured Database Model;5
+Storing Arrays;5
+Example of Materialized View Selection;6
+Materialized View Selection;6
+Query Rewriting;6
+Update Through views;6
+View Definition an Difficulties;6
+View Expansion;6
+View Updating;6
